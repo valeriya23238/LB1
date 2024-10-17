@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Page</title>
-</head>
-<body>
-    <h1>Welcome to My Page</h1>
-    <!-- Додаємо зображення -->
-    <img src="./images/сніданок2.png" alt="Сніданок">
-</body>
-</html>
+<img src="C:\Program Files\Git\LB1\git practice 1\images\парочка1.png">
