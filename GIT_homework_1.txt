@@ -1,0 +1,119 @@
+777b6f9 HEAD@{0}: checkout: moving from images2 to main
+14fd44d HEAD@{1}: checkout: moving from main to images2
+777b6f9 HEAD@{2}: checkout: moving from images2 to main
+14fd44d HEAD@{3}: commit (merge): Вирішення конфлікту в index.html
+a630895 HEAD@{4}: checkout: moving from main to images2
+777b6f9 HEAD@{5}: checkout: moving from styles2 to main
+a630895 HEAD@{6}: checkout: moving from images2 to styles2
+a630895 HEAD@{7}: checkout: moving from styles2 to images2
+a630895 HEAD@{8}: checkout: moving from main to styles2
+777b6f9 HEAD@{9}: checkout: moving from development to main
+a630895 HEAD@{10}: checkout: moving from master to development
+aced82c HEAD@{11}: checkout: moving from development to master
+a630895 HEAD@{12}: checkout: moving from styles2 to development
+a630895 HEAD@{13}: rebase (finish): returning to refs/heads/styles2
+a630895 HEAD@{14}: rebase (start): checkout development
+20597a2 HEAD@{15}: checkout: moving from development to styles2
+a630895 HEAD@{16}: checkout: moving from styles2 to development
+20597a2 HEAD@{17}: checkout: moving from images2 to styles2
+a630895 HEAD@{18}: checkout: moving from images2 to images2
+a630895 HEAD@{19}: checkout: moving from development to images2
+a630895 HEAD@{20}: checkout: moving from images2 to development
+a630895 HEAD@{21}: rebase (finish): returning to refs/heads/images2
+a630895 HEAD@{22}: rebase (start): checkout development
+d954226 HEAD@{23}: checkout: moving from master to images2
+aced82c HEAD@{24}: commit (merge): Вирішено конфлікт у index.html
+777b6f9 HEAD@{25}: checkout: moving from development to master
+a630895 HEAD@{26}: rebase (finish): returning to refs/heads/development
+a630895 HEAD@{27}: rebase (pick): Вирішено конфлікти між HEAD та styles2.
+0018b11 HEAD@{28}: rebase (pick): Додано джерело зображень з images2 в index.html
+5f6995f HEAD@{29}: rebase (pick): Додано джерело зображень з images2 в index.html
+7e98e9e HEAD@{30}: rebase (pick): Додано папку images2 з кількома зображеннями
+20597a2 HEAD@{31}: rebase (start): checkout styles2
+ae7c50a HEAD@{32}: rebase (finish): returning to refs/heads/development
+ae7c50a HEAD@{33}: commit: Вирішено конфлікти між HEAD та styles2.
+d954226 HEAD@{34}: rebase (start): checkout images2
+3fd5a9e HEAD@{35}: commit: Додано джерело стилів з styles2 в index.html
+0cb8c28 HEAD@{36}: checkout: moving from images2 to development
+d954226 HEAD@{37}: commit: Додано джерело зображень з images2 в index.html
+7a5d26b HEAD@{38}: checkout: moving from my-feature-branch to images2
+7a5d26b HEAD@{39}: reset: moving to HEAD
+7a5d26b HEAD@{40}: checkout: moving from images2 to my-feature-branch
+7a5d26b HEAD@{41}: reset: moving to HEAD~1
+3553639 HEAD@{42}: commit: Вирішено конфлікти
+7a5d26b HEAD@{43}: checkout: moving from styles2 to images2
+20597a2 HEAD@{44}: commit: Додано папку styles2 з джерелом стилів
+0cb8c28 HEAD@{45}: checkout: moving from development to styles2
+0cb8c28 HEAD@{46}: checkout: moving from images2 to development
+7a5d26b HEAD@{47}: commit: Додано джерело зображень з images2 в index.html
+87b7488 HEAD@{48}: commit: Додано папку images2 з кількома зображеннями
+0cb8c28 HEAD@{49}: checkout: moving from development to images2
+0cb8c28 HEAD@{50}: checkout: moving from master to development
+777b6f9 HEAD@{51}: checkout: moving from main to master
+777b6f9 HEAD@{52}: checkout: moving from development to main
+0cb8c28 HEAD@{53}: commit: Завершено злиття
+3de4976 HEAD@{54}: commit (merge): Злиття гілки styles у development
+6ab52ac HEAD@{55}: checkout: moving from main to development
+777b6f9 HEAD@{56}: commit: Змінено файл index.html, додано новий заголовок
+a26d74e HEAD@{57}: checkout: moving from development to main
+6ab52ac HEAD@{58}: commit: Скопійовано файл index.html з main у development
+d45c094 HEAD@{59}: checkout: moving from development to development
+d45c094 HEAD@{60}: checkout: moving from main to development
+a26d74e HEAD@{61}: checkout: moving from development to main
+d45c094 HEAD@{62}: checkout: moving from main to development
+a26d74e HEAD@{63}: commit: Створено новий файл index.html
+f86a423 HEAD@{64}: checkout: moving from images to main
+4c4c53c HEAD@{65}: checkout: moving from styles to images
+d996a4d HEAD@{66}: checkout: moving from development to styles
+d45c094 HEAD@{67}: checkout: moving from styles to development
+d996a4d HEAD@{68}: checkout: moving from images to styles
+4c4c53c HEAD@{69}: checkout: moving from main to images
+f86a423 HEAD@{70}: checkout: moving from development to main
+d45c094 HEAD@{71}: checkout: moving from main to development
+f86a423 HEAD@{72}: checkout: moving from development to main
+d45c094 HEAD@{73}: checkout: moving from main to development
+f86a423 HEAD@{74}: checkout: moving from development to main
+d45c094 HEAD@{75}: checkout: moving from main to development
+f86a423 HEAD@{76}: checkout: moving from development to main
+d45c094 HEAD@{77}: commit: Скопійовано index.html з гілки styles
+6eacd02 HEAD@{78}: checkout: moving from main to development
+f86a423 HEAD@{79}: checkout: moving from development to main
+6eacd02 HEAD@{80}: commit (merge): Збережено зміни у index.html
+80c7bb6 HEAD@{81}: Branch: renamed refs/heads/old-development to refs/heads/development
+80c7bb6 HEAD@{83}: Branch: renamed refs/heads/develop to refs/heads/old-development
+80c7bb6 HEAD@{85}: Branch: renamed refs/heads/development to refs/heads/develop
+80c7bb6 HEAD@{87}: checkout: moving from main to development
+f86a423 HEAD@{88}: commit: Додано інформацію в index.html
+ffe59f4 HEAD@{89}: checkout: moving from styles to main
+d996a4d HEAD@{90}: checkout: moving from main to styles
+ffe59f4 HEAD@{91}: checkout: moving from styles to main
+d996a4d HEAD@{92}: commit: Змінено колір заголовка на червоний
+78def13 HEAD@{93}: commit: Додано папку стилів і файл style.css
+35b8b89 HEAD@{94}: checkout: moving from development to styles
+80c7bb6 HEAD@{95}: checkout: moving from main to development
+ffe59f4 HEAD@{96}: commit: Додано джерело зображення в index.html
+f964add HEAD@{97}: commit: Додаю файл index.htmlg
+2e61044 HEAD@{98}: pull origin main --rebase: Fast-forward
+2b4159b HEAD@{99}: checkout: moving from images to main
+4c4c53c HEAD@{100}: checkout: moving from styles to images
+35b8b89 HEAD@{101}: reset: moving to HEAD
+35b8b89 HEAD@{102}: commit: Додано папку стилів із файлом style.css
+80c7bb6 HEAD@{103}: checkout: moving from development to styles
+80c7bb6 HEAD@{104}: checkout: moving from styles to development
+80c7bb6 HEAD@{105}: checkout: moving from development to styles
+80c7bb6 HEAD@{106}: checkout: moving from images to development
+4c4c53c HEAD@{107}: commit: Додано джерело зображень у index.html
+5f3552a HEAD@{108}: checkout: moving from main to images
+2b4159b HEAD@{109}: checkout: moving from images to main
+5f3552a HEAD@{110}: commit: Додано папку зображень з кількома зображеннями
+2b4159b HEAD@{111}: checkout: moving from main to images
+2b4159b HEAD@{112}: checkout: moving from images to main
+2b4159b HEAD@{113}: checkout: moving from main to images
+2b4159b HEAD@{114}: commit: Add index.html
+d5772d0 HEAD@{115}: checkout: moving from development to main
+80c7bb6 HEAD@{116}: commit: Зберегти зміни в index.html
+b839d45 HEAD@{117}: checkout: moving from development to development
+b839d45 HEAD@{118}: commit: Add index.html
+d5772d0 HEAD@{119}: checkout: moving from main to development
+d5772d0 HEAD@{120}: commit: init
+bca3eca HEAD@{121}: clone: from https://github.com/valeriya23238/LB1.git
